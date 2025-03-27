@@ -21,6 +21,6 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,mongodb,express,react,nodejs,nextjs,typescript,java,firebase,docker,bitbucket,postman,vscode,idea,github,git&perline=5)](https://skillicons.dev)
 
-![Umapathi-Mailapalli GitHub stats](https://github-readme-stats.vercel.app/api?username=Umapathi-Mailapalli002&show_icons=true&theme=dark)
+![Umapathi GitHub stats](https://github-readme-stats.vercel.app/api?username=umapathi002&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umapathi-Mailapalli002&theme=dark)
